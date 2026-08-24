@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=BS+Computer+Science+%40+PLM;Student+Leader+%26+Project+Manager;Building+with+React%2C+Next.js+%26+Flutter" alt="Typing SVG" />
 
+<br></br>
 <img src="https://komarev.com/ghpvc/?username=eunice-13&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
