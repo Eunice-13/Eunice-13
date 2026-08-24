@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Eunice 👋</h1>
 
-<h3 align="center">Computer Science Student · Aspiring Software Developer · Manila, PH 🇵🇭</h3>
+<h3 align="center">Computer Science Student · Aspiring Software Developer · Manila, PH</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E85D8F&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Student+Leader+%26+Project+Manager;Always+Learning+New+Tech;Open+to+Collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
@@ -18,15 +18,15 @@ I am a **Computer Science student at the Pamantasan ng Lungsod ng Maynila** with
 
 As a collaborative and adaptable individual, I value effective communication, active listening, and openness to diverse perspectives. I work well with others and am committed to contributing positively to team environments while continuously growing both as a student and an aspiring professional in the field of technology.
 
-- 🎓 Studying **Computer Science** at Pamantasan ng Lungsod ng Maynila
-- 🧭 Experience in **student leadership** and **project management**
-- 🌱 Currently exploring new tools and frameworks in software development
-- 🤝 Big on **communication, active listening,** and teamwork
-- 📫 Reach me through the links below!
+- Studying **Computer Science** at Pamantasan ng Lungsod ng Maynila
+- Experience in **student leadership** and **project management**
+- Currently exploring new tools and frameworks in software development
+- Big on **communication, active listening,** and teamwork
+- Reach me through the links below!
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Core**
 
@@ -46,7 +46,7 @@ As a collaborative and adaptable individual, I value effective communication, ac
 
 ---
 
-## 📌 Pinned Projects
+## Pinned Projects
 
 <table>
   <tr>
@@ -74,17 +74,17 @@ As a collaborative and adaptable individual, I value effective communication, ac
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=eunice-13&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=eunice-13&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=eunice-13&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=eunice-13&theme=rose&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔥 Top Contributed Repo
+### Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=eunice-13&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
