@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Eunice </h1>
+<h1 align="center">Hi there, I'm Eunice</h1>
 
 <h3 align="center">Computer Science Student · Aspiring Software Developer · Manila, PH</h3>
 
@@ -51,7 +51,7 @@ As a collaborative and adaptable individual, I value effective communication, ac
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/Eunice-13/verify-ph">🇵🇭 VerifyPH</a></h3>
+      <h3><a href="https://github.com/Eunice-13/verify-ph">VerifyPH</a></h3>
       <p>An open-source, evidence-based news aggregation and claim-verification platform built to combat misinformation in the Philippines. Aggregates real-time updates from trusted PH media outlets and lets users cross-check viral claims against a verified evidence database — without acting as a biased "truth authority."</p>
       <p>
         <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white"/>
