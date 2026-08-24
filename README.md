@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Eunice 👋</h1>
+<h1 align="center">Hi there, I'm Eunice </h1>
 
 <h3 align="center">Computer Science Student · Aspiring Software Developer · Manila, PH</h3>
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I am a **Computer Science student at the Pamantasan ng Lungsod ng Maynila** with experience in student leadership and project management. I am passionate about learning, exploring new technologies, and continuously developing my knowledge and skills in the field of Computer Science.
 
@@ -61,7 +61,7 @@ As a collaborative and adaptable individual, I value effective communication, ac
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/Eunice-13/intravel-hackathon">🧭 InTravel</a></h3>
+      <h3><a href="https://github.com/Eunice-13/intravel-hackathon"> InTravel</a></h3>
       <p>An offline-capable Flutter navigation app built for a hackathon, designed to guide travelers through the historic walled city of Intramuros, Manila. Features live GPS turn-by-turn routing, an AI travel guide chatbot (IntraBadi), custom itinerary planning, and accessibility-friendly routes.</p>
       <p>
         <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white"/>
