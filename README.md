@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E85D8F,100:6C63FF&height=190&text=Eunice&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=68&descSize=18&fontFamily=Consolas" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=BS+Computer+Science+%40+PLM;Student+Leader+%26+Project+Manager;Building+with+React%2C+Next.js+%26+Flutter" alt="Typing SVG" />
-<br></br>
+
 <img src="https://komarev.com/ghpvc/?username=eunice-13&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
