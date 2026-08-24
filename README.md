@@ -1,36 +1,8 @@
 <div align="center">
 
-<svg width="100%" height="230" viewBox="0 0 1000 230" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="1000" y2="230" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="1" stop-color="#181d2b"/>
-    </linearGradient>
-    <linearGradient id="borderGrad" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#E85D8F"/>
-      <stop offset="1" stop-color="#6C63FF"/>
-    </linearGradient>
-    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.3" fill="#6C63FF" fill-opacity="0.22"/>
-    </pattern>
-    <clipPath id="clip">
-      <rect x="1.5" y="1.5" width="997" height="227" rx="20"/>
-    </clipPath>
-  </defs>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E85D8F,100:6C63FF&height=190&text=Eunice&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=68&descSize=18&fontFamily=Consolas" width="100%"/>
 
-  <rect x="1.5" y="1.5" width="997" height="227" rx="20" fill="url(#bgGrad)" stroke="url(#borderGrad)" stroke-width="2.5"/>
-  <rect x="1.5" y="1.5" width="997" height="227" rx="20" fill="url(#dots)" clip-path="url(#clip)"/>
-
-  <path d="M46 46 L46 70 M46 46 L70 46" stroke="#E85D8F" stroke-width="3" stroke-linecap="round"/>
-  <path d="M954 46 L954 70 M954 46 L930 46" stroke="#6C63FF" stroke-width="3" stroke-linecap="round"/>
-  <path d="M46 184 L46 160 M46 184 L70 184" stroke="#6C63FF" stroke-width="3" stroke-linecap="round"/>
-  <path d="M954 184 L954 160 M954 184 L930 184" stroke="#E85D8F" stroke-width="3" stroke-linecap="round"/>
-
-  <text x="500" y="102" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="48" font-weight="700" fill="#ffffff">Eunice</text>
-  <text x="500" y="140" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#9aa4bf">Computer Science Student · Aspiring Software Developer</text>
-  <line x1="365" y1="158" x2="635" y2="158" stroke="url(#borderGrad)" stroke-width="2"/>
-  <text x="500" y="185" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#E85D8F">Pamantasan ng Lungsod ng Maynila</text>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=BS+Computer+Science+%40+PLM;Student+Leader+%26+Project+Manager;Building+with+React%2C+Next.js+%26+Flutter" alt="Typing SVG" />
 
 <br/>
 
@@ -40,11 +12,7 @@
 
 <br/>
 
-<svg width="180" height="44" viewBox="0 0 180 44" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="178" height="42" rx="10" fill="#161b29" stroke="#E85D8F" stroke-width="1.6"/>
-  <rect x="1" y="1" width="6" height="42" rx="3" fill="#E85D8F"/>
-  <text x="24" y="28" font-family="Consolas, 'Courier New', monospace" font-size="17" font-weight="700" fill="#ffffff">// About</text>
-</svg>
+<img src="https://img.shields.io/badge/ABOUT-161B29?style=for-the-badge&labelColor=161B29&color=E85D8F"/>
 
 <br/><br/>
 
@@ -58,11 +26,7 @@ I'm a collaborative and adaptable individual who values effective communication,
 
 <br/>
 
-<svg width="240" height="44" viewBox="0 0 240 44" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="238" height="42" rx="10" fill="#161b29" stroke="#6C63FF" stroke-width="1.6"/>
-  <rect x="1" y="1" width="6" height="42" rx="3" fill="#6C63FF"/>
-  <text x="24" y="28" font-family="Consolas, 'Courier New', monospace" font-size="17" font-weight="700" fill="#ffffff">// Tech Stack</text>
-</svg>
+<img src="https://img.shields.io/badge/TECH%20STACK-161B29?style=for-the-badge&labelColor=161B29&color=6C63FF"/>
 
 <br/><br/>
 
@@ -75,11 +39,7 @@ I'm a collaborative and adaptable individual who values effective communication,
 
 <br/>
 
-<svg width="260" height="44" viewBox="0 0 260 44" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="258" height="42" rx="10" fill="#161b29" stroke="#E85D8F" stroke-width="1.6"/>
-  <rect x="1" y="1" width="6" height="42" rx="3" fill="#E85D8F"/>
-  <text x="24" y="28" font-family="Consolas, 'Courier New', monospace" font-size="17" font-weight="700" fill="#ffffff">// Pinned Projects</text>
-</svg>
+<img src="https://img.shields.io/badge/PINNED%20PROJECTS-161B29?style=for-the-badge&labelColor=161B29&color=E85D8F"/>
 
 <br/><br/>
 
@@ -91,11 +51,7 @@ I'm a collaborative and adaptable individual who values effective communication,
 
 <br/>
 
-<svg width="260" height="44" viewBox="0 0 260 44" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="258" height="42" rx="10" fill="#161b29" stroke="#6C63FF" stroke-width="1.6"/>
-  <rect x="1" y="1" width="6" height="42" rx="3" fill="#6C63FF"/>
-  <text x="24" y="28" font-family="Consolas, 'Courier New', monospace" font-size="17" font-weight="700" fill="#ffffff">// GitHub Analytics</text>
-</svg>
+<img src="https://img.shields.io/badge/GITHUB%20ANALYTICS-161B29?style=for-the-badge&labelColor=161B29&color=6C63FF"/>
 
 <br/><br/>
 
@@ -125,25 +81,7 @@ I'm a collaborative and adaptable individual who values effective communication,
 <br/>
 
 <div align="center">
-
-<svg width="100%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad2" x1="0" y1="0" x2="1000" y2="120" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="1" stop-color="#181d2b"/>
-    </linearGradient>
-    <linearGradient id="borderGrad2" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#6C63FF"/>
-      <stop offset="1" stop-color="#E85D8F"/>
-    </linearGradient>
-  </defs>
-  <rect x="1.5" y="1.5" width="997" height="117" rx="18" fill="url(#bgGrad2)" stroke="url(#borderGrad2)" stroke-width="2.5"/>
-  <path d="M40 30 L40 50 M40 30 L60 30" stroke="#6C63FF" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M960 90 L960 70 M960 90 L940 90" stroke="#E85D8F" stroke-width="2.5" stroke-linecap="round"/>
-  <text x="500" y="55" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="700" fill="#ffffff">Thanks for stopping by</text>
-  <text x="500" y="82" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#9aa4bf">Always open to connecting, collaborating, or talking tech</text>
-</svg>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:E85D8F&height=110&text=Thanks%20for%20stopping%20by&fontSize=24&fontColor=ffffff&fontAlignY=45&desc=Always%20open%20to%20connecting%2C%20collaborating%2C%20or%20talking%20tech&descAlignY=72&descSize=13&fontFamily=Consolas" width="100%"/>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
