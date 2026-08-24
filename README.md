@@ -4,17 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=BS+Computer+Science+%40+PLM;Student+Leader+%26+Project+Manager;Building+with+React%2C+Next.js+%26+Flutter" alt="Typing SVG" />
 
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=eunice-13&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<br/>
-
 <img src="https://img.shields.io/badge/ABOUT-161B29?style=for-the-badge&labelColor=161B29&color=E85D8F"/>
-
-<br/><br/>
 
 I am a **Computer Science student at the Pamantasan ng Lungsod ng Maynila**, with experience in student leadership and project management. I'm passionate about learning, exploring new technologies, and continuously developing my knowledge and skills in the field of Computer Science.
 
@@ -24,11 +18,7 @@ I'm a collaborative and adaptable individual who values effective communication,
 |:---:|:---:|:---:|
 | BS Computer Science<br/>Pamantasan ng Lungsod ng Maynila | Software Development<br/>Project Management | Collaborative · Adaptable<br/>Curious |
 
-<br/>
-
 <img src="https://img.shields.io/badge/TECH%20STACK-161B29?style=for-the-badge&labelColor=161B29&color=6C63FF"/>
-
-<br/><br/>
 
 | Category | Stack |
 |:---|:---|
@@ -37,11 +27,7 @@ I'm a collaborative and adaptable individual who values effective communication,
 | **Backend, Data & Platforms** | <img src="https://skillicons.dev/icons?i=supabase,git,github,vercel" /> |
 | **Design** | <img src="https://skillicons.dev/icons?i=figma" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="40"/> <img src="https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white" height="40"/> |
 
-<br/>
-
 <img src="https://img.shields.io/badge/PINNED%20PROJECTS-161B29?style=for-the-badge&labelColor=161B29&color=E85D8F"/>
-
-<br/><br/>
 
 | [VerifyPH](https://github.com/Eunice-13/verify-ph) | [InTravel](https://github.com/Eunice-13/intravel-hackathon) |
 |:---|:---|
@@ -49,36 +35,22 @@ I'm a collaborative and adaptable individual who values effective communication,
 | *An open-source, evidence-based news aggregation and claim-verification platform built to combat misinformation in the Philippines. Aggregates real-time updates from trusted PH media outlets and lets users cross-check viral claims against a verified evidence database, without acting as a biased "truth authority."* | *An offline-capable Flutter navigation app built for a hackathon, guiding travelers through the historic walled city of Intramuros, Manila. Features live GPS turn-by-turn routing, an AI travel guide chatbot (IntraBadi), custom itinerary planning, and accessibility-friendly routes.* |
 | [![VerifyPH](https://github-readme-stats.shion.dev/api/pin/?username=Eunice-13&repo=verify-ph&theme=radical&hide_border=false&border_color=E85D8F&bg_color=0D1117)](https://github.com/Eunice-13/verify-ph) | [![InTravel](https://github-readme-stats.shion.dev/api/pin/?username=Eunice-13&repo=intravel-hackathon&theme=radical&hide_border=false&border_color=6C63FF&bg_color=0D1117)](https://github.com/Eunice-13/intravel-hackathon) |
 
-<br/>
-
 <img src="https://img.shields.io/badge/GITHUB%20ANALYTICS-161B29?style=for-the-badge&labelColor=161B29&color=6C63FF"/>
-
-<br/><br/>
 
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=eunice-13&theme=radical&hide_border=false&border_color=E85D8F&include_all_commits=true&count_private=true&title_color=E85D8F&icon_color=6C63FF&text_color=ffffff&bg_color=0D1117" width="49%"/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=eunice-13&theme=radical&hide_border=false&border_color=6C63FF&include_all_commits=true&count_private=true&layout=compact&title_color=6C63FF&text_color=ffffff&bg_color=0D1117" width="49%"/>
 
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=eunice-13&theme=radical&hide_border=false&border=E85D8F&background=0D1117&ring=6C63FF&fire=E85D8F&currStreakLabel=E85D8F" width="70%"/>
 
-<br/><br/>
-
 <sub><strong>TROPHIES</strong></sub>
-<br/>
 <img src="https://github-profile-trophy.vercel.app/?username=eunice-13&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1"/>
 
-<br/><br/>
-
 <sub><strong>TOP CONTRIBUTED REPOSITORY</strong></sub>
-<br/>
 <img src="https://github-contributor-stats.vercel.app/api?username=eunice-13&limit=5&theme=dark&combine_all_yearly_contributions=true" width="70%"/>
 
 </div>
-
-<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:E85D8F&height=110&text=Thanks%20for%20stopping%20by&fontSize=24&fontColor=ffffff&fontAlignY=45&desc=Always%20open%20to%20connecting%2C%20collaborating%2C%20or%20talking%20tech&descAlignY=72&descSize=13&fontFamily=Consolas" width="100%"/>
